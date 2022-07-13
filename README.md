@@ -1,5 +1,4 @@
- set -h github.com git_protocol https
-✓ Configured git protocol- 👋 Hi, I’m @JahongirQurbonov
+👋 Hi, I’m @JahongirQurbonov
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Karschi State University
 <!-- - 💞️ I’m looking to collaborate on ...
